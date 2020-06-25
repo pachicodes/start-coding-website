@@ -25,7 +25,7 @@
   height: 60vh;
   width: 90%;
   margin: auto;
-  background-image: url(img/coding.jpg);
+  background-image: url(/img/coding.jpg);
   background-size: cover;
 }
 
@@ -60,7 +60,7 @@
 }
 
 .events {
-    color: #fff;
+  color: #fff;
 }
 
 .sobre__content {
@@ -100,14 +100,14 @@
   margin: 50px;
 }
 
-#contact {
-    background-color: var(--main);
-    width: 70%;
-    height: 45vh;
-    margin: 100px auto;
-}
-/*footer*/
-.footer {
-    background-color: #fff;
+#contato {
+  background-color: var(--main);
+  width: 70%;
+  height: 45vh;
+  margin: 100px auto;
 }
 
+/*footer*/
+.footer {
+  background-color: #fff;
+}
