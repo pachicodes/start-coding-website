@@ -65,7 +65,7 @@
 
 .sobre__content {
   align-self: center;
-  width: 80%;
+  width: 100%;
   text-align: left;
   margin-left: 50px;
   line-height: 28px;
@@ -110,4 +110,18 @@
 /*footer*/
 .footer {
   background-color: #fff;
+   background-color: var(--main);
+}
+
+.membro__btn {
+  color: #fff;
+  background-color: var(--main);
+  padding: 10px 30px;
+  font-size: 1.2em;
+  margin: 30px 160px;
+  border: solid 1px #000;
+}
+
+a {
+  color: #fff;
 }
